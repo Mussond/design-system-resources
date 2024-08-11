@@ -4,7 +4,7 @@ List of design systems resources I’ve personally gathered over time. Includes 
 <details>
 <summary>On this page</summary>
   
-* [Tools to Use Regularly](#1.1) 
+* [Tools to Use Regularly](#tools) 
 * Systems to reference
 * Starting Material
 * Design Tokens
@@ -12,7 +12,7 @@ List of design systems resources I’ve personally gathered over time. Includes 
   
 </details>
 
-## Tools to Use Regularly<a id='1.1'></a>
+## Tools to Use Regularly<a id='tools'></a>
 * [WCAG 2 Quick Reference](https://3pha.com/wcag2/) by [Jo Chidzik](https://twitter.com/joechidzik)
 * [w3 Schools HTML Tutorial references](https://www.w3schools.com/html/)
 * [mdn web docs: HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
