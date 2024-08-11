@@ -6,7 +6,8 @@ I keep this on gitHub so I can access and share it more easily
 <details>
 <summary>On this page</summary>
   
-* [Tools to Use Regularly](#tools) 
+* [Tools to Use Regularly](#tools)
+* [Social](#social)
 * [Systems to reference](#referenceSystems)
 * [Starting Material](#startingMaterial)
 * [Design Tokens](#designTokens)
@@ -14,17 +15,28 @@ I keep this on gitHub so I can access and share it more easily
   
 </details>
 
-
 ## Tools to Use Regularly<a id='tools'></a>
+### Accessibility
 * [WCAG 2 Quick Reference](https://3pha.com/wcag2/) by [Jo Chidzik](https://twitter.com/joechidzik)
-* [w3 Schools HTML Tutorial references](https://www.w3schools.com/html/)
-* [mdn web docs: HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [Accessibility Support](https://a11ysupport.io/)
 * [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)
 * [Tutorials by Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/tutorials/)
 * [WebAIM’s WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist)
-* Finding systems or components
+
+### HTML
+* [w3 Schools HTML Tutorial references](https://www.w3schools.com/html/)
+* [mdn web docs: HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+### Component References
   * [List of web components based Design Systems](https://webcomponents.today/design-systems/)
   * [Examples of Components from the component gallery](https://component.gallery/components/)
+  * [Results | Design Systems Directory](https://designsystems.directory/)
+  * [Design Systems Database: Surf among top‑notch Design Systems](https://designsystems.surf/)
+
+## Socials<a id='social'></a>
+### Slack
+* [design-systems.slack.com](https://design-systems.slack.com/)
+* [web-a11y.slack.com](https://web-a11y.slack.com/)
 
 
 ## Systems to reference<a id='referenceSystems'></a>
@@ -55,11 +67,13 @@ I keep this on gitHub so I can access and share it more easily
 | `URL` | `bookmark` | `1 Sept 2020` | System type descriptions: [Design Systems 101](https://www.nngroup.com/articles/design-systems-101/) by Neilson Normon group | `design system types` |
 
 ## Design Tokens<a id='designTokens'></a>
-> [!NOTE]
-> coming soon.
 
+| Category | Type | Date | Link & Description | Tags |
+| :---  | :--- | :--- | :--- | :--- |
+| `URL` | `bookmark` | `1 Sept 2020` | [Naming Tokens in Design Systems](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676). A complete framework for structuring design tokens that every other system basically uses a variant of. By Nathan Curtis | `structure` |
+| `URL` | `bookmark` | `1 Sept 2020` | [Design Tokens 101](https://designstrategy.guide/design-management/design-tokens-101/) by [Romina Kavcic](http://www.romina.si/) | `introduction` |
+| `URL` | `bookmark` | `1 Sept 2020` | [(1) Dan Hollick (@DanHollick) / X (twitter.com)](https://twitter.com/DanHollick?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1483874236410347521%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=notion%3A%2F%2Fwww.notion.so%2Fprotfolio%2FDave-Musson-c3a76035b6d347ac906b4b3ca2df89d4%3Fp%3D854c250d8aae4b95a60f3db714dc1a29pm%3Dc). Tweet thread and diagrams I found useful to figure out semantic inheritance from ramps for colour tokens. By Dan Hollick | `composites` |
 
 ## Components<a id='components'></a>
-> [!NOTE]
-> coming soon.
+| `URL` | `bookmark` | `1 Sept 2020` | Classification in Design Systems. Short and simple classification for components that is still mostly accurate today. By Nathan Curtis, eight shapes | `categorisation` `High-level` |
 
