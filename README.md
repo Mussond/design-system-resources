@@ -75,5 +75,7 @@ I keep this on gitHub so I can access and share it more easily
 | `URL` | `bookmark` | `1 Sept 2020` | [(1) Dan Hollick (@DanHollick) / X (twitter.com)](https://twitter.com/DanHollick?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1483874236410347521%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=notion%3A%2F%2Fwww.notion.so%2Fprotfolio%2FDave-Musson-c3a76035b6d347ac906b4b3ca2df89d4%3Fp%3D854c250d8aae4b95a60f3db714dc1a29pm%3Dc). Tweet thread and diagrams I found useful to figure out semantic inheritance from ramps for colour tokens. By Dan Hollick | `composites` |
 
 ## Components<a id='components'></a>
+| Category | Type | Date | Link & Description | Tags |
+| :---  | :--- | :--- | :--- | :--- |
 | `URL` | `bookmark` | `1 Sept 2020` | Classification in Design Systems. Short and simple classification for components that is still mostly accurate today. By Nathan Curtis, eight shapes | `categorisation` `High-level` |
 
