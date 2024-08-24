@@ -57,25 +57,25 @@ I keep this on GitHub to access and share it more easily.
 * [design-systems · GitHub Topics](https://github.com/topics/design-systems): Large list of public repositories
 
 ## Starting Material<a id='startingMaterial'></a>
-| Category | Type | Date | Link & Description | Tags |
-| :---  | :--- | :--- | :--- | :--- |
-| `tool` | `bookmark` | `1 Sept 2020` | [Questions I Ask Design System Teams Before Our First Meeting](https://medium.com/@kaelig/questions-i-ask-design-system-teams-before-our-first-meeting-as-a-consultant-b2d616c7ac9f): A good list of initial questions to ask design system stakeholders and teams when starting a design system. By Kaelig | `accessibility` `WCAG` `introduction` |
-| `list` | `bookmark` | `1 Sept 2020` | [Design System Checklist](https://www.designsystemchecklist.com/): This list is a useful aid to give an overall guide on what a design system includes. By Arda Karacizmeli, Dmitry Belyaev, Oleksii Drozdenko, and Steven Baguley | `Design system setup` `checklist` |
-| `list` | `bookmark` | `1 Sept 2020` | [EightShapes > Design Systems > Components Blog & Other Writing](https://eightshapes.com/components/): Always a useful reference and guide when exploring something about a design system.By eightshapes | `Design system setup` `checklist` |
-| `URL` | `bookmark` | `1 Sept 2020` | System type description: [Team Models for Scaling a Design System by Nathan Curtis](https://medium.com/eightshapes-llc/team-models-for-scaling-a-design-system-2cf9d03be6a0) | `design system types` |
-| `URL` | `bookmark` | `1 Sept 2020` | System type description: [Design system governance models and which is right for your organization by Zeroheight](https://zeroheight.com/help/guides/design-system-governance-models-and-which-is-right-for-your-organization/#:~:text=resourcing%20the%20models-,Federated,facilitate%20discussions%2C%20and%20ensure%20accountability) | `design system types` |
-| `URL` | `bookmark` | `1 Sept 2020` | System type descriptions: [Design Systems 101](https://www.nngroup.com/articles/design-systems-101/) by Neilson Normon group | `design system types` |
+| Type | Date | Link & Description | Tags |
+| :--- | :--- | :--- | :--- |
+| `setup` | `1 Sept 2020` | [Questions I Ask Design System Teams Before Our First Meeting](https://medium.com/@kaelig/questions-i-ask-design-system-teams-before-our-first-meeting-as-a-consultant-b2d616c7ac9f): A good list of initial questions to ask design system stakeholders and teams when starting a design system. By Kaelig | `accessibility` `WCAG` `introduction` |
+| `list` | `1 Sept 2020` | [Design System Checklist](https://www.designsystemchecklist.com/): This list is a useful aid to give an overall guide on what a design system includes. By Arda Karacizmeli, Dmitry Belyaev, Oleksii Drozdenko, and Steven Baguley | `Design system setup` `checklist` |
+| `list` | `1 Sept 2020` | [EightShapes > Design Systems > Components Blog & Other Writing](https://eightshapes.com/components/): Always a useful reference and guide when exploring something about a design system.By eightshapes | `Design system setup` `checklist` |
+| `URL` | `1 Sept 2020` | System type description: [Team Models for Scaling a Design System by Nathan Curtis](https://medium.com/eightshapes-llc/team-models-for-scaling-a-design-system-2cf9d03be6a0) | `design system types` |
+| `URL` | `1 Sept 2020` | System type description: [Design system governance models and which is right for your organization by Zeroheight](https://zeroheight.com/help/guides/design-system-governance-models-and-which-is-right-for-your-organization/#:~:text=resourcing%20the%20models-,Federated,facilitate%20discussions%2C%20and%20ensure%20accountability) | `design system types` |
+| `URL` | `1 Sept 2020` | System type descriptions: [Design Systems 101](https://www.nngroup.com/articles/design-systems-101/) by Neilson Normon group | `design system types` |
 
 ## Design Tokens<a id='designTokens'></a>
 
-| Category | Type | Date | Link & Description | Tags |
-| :---  | :--- | :--- | :--- | :--- |
-| `URL` | `bookmark` | `1 Sept 2020` | [Naming Tokens in Design Systems](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676). A complete framework for structuring design tokens that most systems tend to use a variant of. By Nathan Curtis | `structure` |
-| `URL` | `bookmark` | `1 Sept 2020` | [Design Tokens 101](https://designstrategy.guide/design-management/design-tokens-101/) by [Romina Kavcic](http://www.romina.si/) | `introduction` |
-| `URL` | `bookmark` | `1 Sept 2020` | [(1) Dan Hollick (@DanHollick) / X (twitter.com)](https://twitter.com/DanHollick?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1483874236410347521%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=notion%3A%2F%2Fwww.notion.so%2Fprotfolio%2FDave-Musson-c3a76035b6d347ac906b4b3ca2df89d4%3Fp%3D854c250d8aae4b95a60f3db714dc1a29pm%3Dc). Tweet thread and diagrams I found useful to figure out semantic inheritance from ramps for colour tokens. By Dan Hollick | `composites` |
+| Type | Date | Link & Description | Tags |
+| :--- | :--- | :--- | :--- |
+| `URL` | `1 Sept 2020` | [Naming Tokens in Design Systems](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676). A complete framework for structuring design tokens that most systems tend to use a variant of. By Nathan Curtis | `structure` |
+| `URL` | `1 Sept 2020` | [Design Tokens 101](https://designstrategy.guide/design-management/design-tokens-101/) by [Romina Kavcic](http://www.romina.si/) | `introduction` |
+| `URL` | `1 Sept 2020` | [(1) Dan Hollick (@DanHollick) / X (twitter.com)](https://twitter.com/DanHollick?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1483874236410347521%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=notion%3A%2F%2Fwww.notion.so%2Fprotfolio%2FDave-Musson-c3a76035b6d347ac906b4b3ca2df89d4%3Fp%3D854c250d8aae4b95a60f3db714dc1a29pm%3Dc). Tweet thread and diagrams I found useful to figure out semantic inheritance from ramps for colour tokens. By Dan Hollick | `composites` |
 
 ## Components<a id='components'></a>
-| Category | Type | Date | Link & Description | Tags |
-| :---  | :--- | :--- | :--- | :--- |
-| `URL` | `bookmark` | `1 Sept 2020` | Classification in Design Systems. Short and simple classification for components that is still mostly accurate today. By Nathan Curtis, eight shapes | `categorisation` `High-level` |
+| Type | Date | Link & Description | Tags |
+| :---  | :--- | :--- | :--- |
+| `URL` | `1 Sept 2020` | Classification in Design Systems. Short and simple classification for components that is still mostly accurate today. By Nathan Curtis, eight shapes | `categorisation` `High-level` |
 
