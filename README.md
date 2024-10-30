@@ -22,6 +22,7 @@ I keep this on GitHub to access and share it more easily.
 * [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)
 * [Tutorials by Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/tutorials/)
 * [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist)
+* [MagentaA11y](https://www.magentaa11y.com/): test cases for Web, iOS and Android components
 
 ### HTML
 * [w3 Schools HTML Tutorial references](https://www.w3schools.com/html/)
